@@ -16,6 +16,6 @@ let values = [10, 50, 30, 70, 80, 20, 90, 40];
 console.log("LinearSearch of 70 is", LinearSearch(values, values.length, 70));
 
 // Complexity:
-// Best Case: 0(1)
-// Worst Case: 0(n)
-// Average Case: 0(n)
+// Best Case: O(1)
+// Worst Case: O(n)
+// Average Case: O(n)
