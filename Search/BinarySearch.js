@@ -30,6 +30,6 @@ let values = [10, 50, 30, 70, 80, 20, 90, 40];
 console.log("BinarySearch of 70 is", BinarySearch(values, 70));
 
 // Complexity:
-// Best Case: 0(1)
-// Worst Case: 0(n)
-// Average Case: 0(n)
+// Best Case: O(1)
+// Worst Case: O(logn)
+// Average Case: O(logn)
