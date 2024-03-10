@@ -67,8 +67,8 @@ class LinkedList {
 
 let list = new LinkedList();
 
-list.addFirst(5);
-list.addFirst(6);
-list.addFirst(7);
-list.addFirst(8);
+list.addLast(5);
+list.addLast(6);
+list.addLast(7);
+list.addLast(8);
 list.print();
